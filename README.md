@@ -8,4 +8,4 @@ Based of:
 
 ## Deployed Contract Address
 
- - WMOVR: `` 
+ - WMOVR: `0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d` 

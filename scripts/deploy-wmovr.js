@@ -1,5 +1,4 @@
 // Deploy MOVR to Moonriver
-const { ethers } = require('hardhat');
 
 async function main() {
   // Deploy WETH to MainNet Fork
