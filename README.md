@@ -1,6 +1,6 @@
 # Canonical WETH Deployment for Moonriver
 
-## Cannonical WETH
+## Canonical WETH
 
 Based of: 
  - https://github.com/gnosis/canonical-weth
