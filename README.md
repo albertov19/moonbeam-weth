@@ -30,5 +30,5 @@ npx hardhat run verify-script.js
 ## Deployed Contract Address
 
  - WMOVR (on Moonriver): `0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d`
- - WGLMR (on Moonbeam):  `0xf50225a84382c74CbdeA10b0c176f71fc3DE0C4d` 
+ - WGLMR (on Moonbeam):  `0xAcc15dC74880C9944775448304B263D191c6077F` 
 
